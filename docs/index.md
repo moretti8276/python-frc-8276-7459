@@ -10,4 +10,4 @@ O material explica, como funcionam alguns dos principais conceitos usados no có
 - Introdução ao Command-Based
 - Uso de NetworkTables
 
-> Documentação desenvolvida pelas equipes **Optron 8276** e **TTaubatexas Robotics 7459**
+> Documentação desenvolvida pelas equipes **Optron 8276** e **Taubatexas Robotics 7459**
