@@ -1,25 +1,7 @@
-site_name: Python FRC Guide
-site_description: Documentação de Python para equipes FRC
-site_author: FRC Teams 8276 & 7459
-
-theme:
-  name: material
-  language: pt
-  palette:
-    - scheme: default
-      primary: blue
-      accent: light blue
-  features:
-    - navigation.tabs
-    - navigation.top
-    - search.highlight
-    - search.suggest
+site_name: Python FRC 8276 & 7459
 
 nav:
   - Início: index.md
-  - Básico:
-      - O que é Python: basico/python.md
-      - Instalação: basico/instalacao.md
-  - FRC:
-      - RobotPy: frc/robotpy.md
-      - TimedRobot: frc/timedrobot.md
+
+theme:
+  name: material
